@@ -23,10 +23,10 @@ BookNest is a MERN Stack-based e-commerce platform for books. It features a role
 
 🛠️ Tech Stack
 
-* Tech    Usage
-* MongoDB    Database
-* Express    Backend API
-* React    Frontend UI
-* Node.js    Server runtime
-* JWT    Authentication
-* Axios    API calls
+* Tech  -  Usage
+* MongoDB -   Database
+* Express  -  Backend API
+* React -   Frontend UI
+* Node.js -   Server runtime
+* JWT  -  Authentication
+* Axios  -  API calls
