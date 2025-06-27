@@ -6,20 +6,20 @@ BookNest is a MERN Stack-based e-commerce platform for books. It features a role
 🚀 Features
 
 👤 User
-Browse books
-Add books to cart
-Place orders
-View order history
+* Browse books
+* Add books to cart
+* Place orders
+* View order history
 
 🧑‍💼 Seller
-Add new books
-View and manage their books
-Track orders placed on their books
+* Add new books
+* View and manage their books
+* Track orders placed on their books
 
 👑 Admin
-View all users, sellers, books, and orders
-Delete users/books
-Update order statuses (e.g., Pending, Delivered)
+* View all users, sellers, books, and orders
+* Delete users/books
+* Update order statuses (e.g., Pending, Delivered)
 
 🛠️ Tech Stack
   Tech	Usage
