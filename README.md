@@ -1,4 +1,4 @@
-# booknest-where-stories-nestle
+# Booknest-Where Stories Nestle
 
 📚 BookNest – Your Online Bookstore
 BookNest is a MERN Stack-based e-commerce platform for books. It features a role-based system supporting Users, Sellers, and Admins, making it a complete mini marketplace.
